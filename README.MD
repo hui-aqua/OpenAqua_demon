@@ -42,7 +42,7 @@ Required packages:
 
   > /opt/aster146/bin/as_run
 
-  If not, you need to change Line 16  in `run.sh` and  Line 2 in `ASTERRUN.export` according to your environments.
+  If not, you need to change Line 16  in [`run.sh`](Example/run.sh) and  Line 2 in [`ASTERRUN.export`](Example/asterinput/ASTERRUN.export) according to your environments.
 
 * [salome_meca 2019.0.3](https://www.code-aster.org/spip.php?article303)
 
