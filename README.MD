@@ -1,6 +1,6 @@
 Straight Cylinder with Sinkers
 
-This is a document for the simulations in Section 4.3.4 from the following [paper.](https://doi.org/10.1016/j.aquaeng.2020.102070)
+This is a document for a fish cage that similar to the simulations in Section 4.3.4 from this [paper](https://doi.org/10.1016/j.aquaeng.2020.102070), but with a bottom netting. 
 
 > Cheng, H., Li, L., Aarsæther, K.G. and Ong, M.C., 2020. Typical hydrodynamic models for aquaculture nets: A comparative study under pure current conditions. *Aquacultural Engineering*, *90*, p.102070.
 
