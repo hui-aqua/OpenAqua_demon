@@ -65,7 +65,32 @@ Required packages:
    sh run.sh
    ```
 
-3. Wait until the job finish.
+3. Wait until the job finish. If it shows `exit_code=0` at the end, it means the simulation finish without any error.
+
+```
+ 
+ ---------------------------------------------------------------------------------
+                                            cpu     system    cpu+sys    elapsed
+ ---------------------------------------------------------------------------------
+   Preparation of environment              0.00       0.00       0.00       0.00
+   Copying datas                           0.09       0.02       0.11       0.11
+   Code_Aster run                       1380.66      31.55    1412.21    1394.90
+   Copying results                         0.02       0.04       0.06       0.05
+ ---------------------------------------------------------------------------------
+   Total                                1381.01      31.67    1412.68    1395.36
+ ---------------------------------------------------------------------------------
+
+as_run 2020.0
+
+------------------------------------------------------------
+--- DIAGNOSTIC JOB : <A>_ALARM
+------------------------------------------------------------
+
+
+EXIT_CODE=0
+Change the variable back to the default value....>>>>>>
+
+```
 
 
 
